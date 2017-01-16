@@ -10,4 +10,8 @@
     <string name="password">Password</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
+    <string name="work_time_25_min">Work time 25 min</string>
+    <string name="break_10_mins">Break 10 mins</string>
+    <string name="long_break_affter">Long break affter</string>
+    <string name="long_break_20_min">Long break 20 min</string>
 </resources>
